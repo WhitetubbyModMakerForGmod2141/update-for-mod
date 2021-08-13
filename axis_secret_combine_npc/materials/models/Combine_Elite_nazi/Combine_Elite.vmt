@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/Combine_Elite_nazi/Combine_Elite"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "Models/Combine_soldier/combinesoldiersheet_mask"
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$selfillum" 0
+	"$model" 1
+}
+
+
+
